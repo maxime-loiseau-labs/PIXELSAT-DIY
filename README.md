@@ -1,4 +1,4 @@
-# PixelSat DIY
+# PIXELSAT DIY
  
 **Open-source maker version of PixelSat**, an autonomous, solar-powered
 e-paper mini satellite that lives on your desk.
@@ -139,7 +139,7 @@ Core components:
 2. **Configure Arduino IDE**, see [Firmware Configuration](docs/Step_by_step_tutorial.md)
 3. **Flash the firmware**:
    - Install [megaTinyCore](https://github.com/SpenceKonde/megaTinyCore)
-   - Open `mini_sat_v1_3.ino` in Arduino IDE <!-- TO CONFIRM: filename, you wrote Pixelsat01.ino, did you rename it? -->
+   - Open `Pixelsat_diy_v1.ino` in Arduino IDE <!-- TO CONFIRM: filename, you wrote Pixelsat01.ino, did you rename it? -->
    - Connect a UPDI programmer
    - No UPDI programmer on hand? See [jtag2updi on Arduino UNO](docs/Step_by_step_tutorial.md)
    - Click Upload
